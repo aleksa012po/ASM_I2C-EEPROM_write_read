@@ -1,0 +1,60 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\Debug\I2C EEPROM_write_read.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>I2C EEPROM_write_read.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>I2C EEPROM_write_read.map</FILE>
+  <FILE>I2C EEPROM_write_read.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main_program><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>44</LINE></main_program>
+  <twi_init><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>87</LINE></twi_init>
+  <loop><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>50</LINE></loop>
+  <wr_byte_eeprom1><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>207</LINE></wr_byte_eeprom1>
+  <read_eeprom><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>271</LINE></read_eeprom>
+  <led><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>224</LINE></led>
+  <delay1sek><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>243</LINE></delay1sek>
+  <wr_byte_eeprom2><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>230</LINE></wr_byte_eeprom2>
+  <twi_half_d><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>71</LINE></twi_half_d>
+  <loop2><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>73</LINE></loop2>
+  <twi_quar_d><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>78</LINE></twi_quar_d>
+  <loop1><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>80</LINE></loop1>
+  <twi_rep_start><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>95</LINE></twi_rep_start>
+  <twi_start><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>104</LINE></twi_start>
+  <twi_write><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>111</LINE></twi_write>
+  <twi1_wr><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>117</LINE></twi1_wr>
+  <twi1_bit><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>115</LINE></twi1_bit>
+  <twi_get_ack><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>135</LINE></twi_get_ack>
+  <twi_low><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>124</LINE></twi_low>
+  <twi_high><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>127</LINE></twi_high>
+  <wait><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>140</LINE></wait>
+  <twi_transfer><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>154</LINE></twi_transfer>
+  <twi_read><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>160</LINE></twi_read>
+  <twi_readb><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>163</LINE></twi_readb>
+  <twi_put_ack><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>176</LINE></twi_put_ack>
+  <put_ack_l><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>182</LINE></put_ack_l>
+  <put_ack_h><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>184</LINE></put_ack_h>
+  <twi_put_ackW><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>187</LINE></twi_put_ackW>
+  <twi_stop><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>195</LINE></twi_stop>
+  <write_eeprom><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>257</LINE></write_eeprom>
+  <L1><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>216</LINE></L1>
+  <L3><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>237</LINE></L3>
+  <L2><FILE>c:\users\alex\Documents\Atmel Studio\7.0\I2C EEPROM_write_read\I2C EEPROM_write_read\main.asm</FILE><LINE>247</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
